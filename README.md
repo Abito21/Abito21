@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Perkenalkan Abid Juliant Indraswara, biasa dipanggil Abid.
+### Abid Juliant Indraswara, you can call me Abid.
 
 🌱 I’m currently learning about Machine Learning, Web App and Android App.
 
