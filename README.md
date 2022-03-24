@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+### Perkenalkan Abid Juliant Indraswara, biasa dipanggil Abid.
 
+🌱 I’m currently learning about Machine Learning, Web App and Android App.
+📫 How to reach me: 
+   [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/)
+   [Instagram account](https://www.instagram.com/abidindraswara/)
 <!--
 **Abito21/Abito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
