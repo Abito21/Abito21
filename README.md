@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/).
+
+<p align="left">
+<a href="https://github.com/Abito21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abito21&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
