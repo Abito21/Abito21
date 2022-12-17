@@ -29,7 +29,7 @@ You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-julian
 
 <p align="left">
 <a href="https://github.com/Abito21">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abito21&layout=compact&langs_count=8&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abito21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
