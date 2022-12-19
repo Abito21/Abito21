@@ -9,7 +9,7 @@ I am very interested in learning about machine learning, data science, data anal
 <div align="left">
   <a href="https://www.instagram.com/abidindraswara/">
     <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 -->
 
 You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/).
-![Metrics](https://raw.githubusercontent.com/Abito21/Abito21/github-metrics/github-metrics.svg)
 
 <div>
    <a href="https://github.com/Abito21">
