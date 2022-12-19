@@ -33,12 +33,6 @@ You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-julian
            height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
    </a>
    
-   <a href="https://github.com/Abito21">
-      <img
-           height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abito21&layout=compact&langs_count=8&theme=algolia"
-      />
-   </a>
-   
    <a href="https://app.daily.dev/Abito21">
       <img
            width="256"
