@@ -6,10 +6,22 @@
 I am very interested in learning about machine learning, data science, data analysts and all things related to technology that have an impact on the environment.
 
 📫 How to reach me: 
+<div align="left">
+  <a href="https://www.instagram.com/abidindraswara/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+ </div>
 
-   [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/)
 
-   [Instagram account](https://www.instagram.com/abidindraswara/)
 <!--
 **Abito21/Abito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +38,7 @@ Here are some ideas to get you started:
 -->
 
 You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/).
+![Metrics](https://raw.githubusercontent.com/Abito21/Abito21/github-metrics/github-metrics.svg)
 
 <div>
    <a href="https://github.com/Abito21">
