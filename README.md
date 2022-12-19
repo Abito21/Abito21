@@ -45,7 +45,7 @@ You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-julian
       
    <a href="https://github.com/Abito21">
       <img
-           height="150em"
+           height="175em"
            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abito21&layout=compact&langs_count=8&theme=nightowl"
    />
 </div>
