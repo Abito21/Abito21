@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/).
 
 <div>
-   <a href="https://github.com/Abito21">
-      <img
-           height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-           align="left"
-   </a>
+   <p>
+      <a href="https://github.com/Abito21">
+         <img
+               height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+               align="left"
+      </a>
+   <p>
       
    <a href="https://github.com/Abito21">
       <img
