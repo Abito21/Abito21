@@ -27,9 +27,18 @@ Here are some ideas to get you started:
 
 You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/).
 
-<p align="left">
-<a href="https://github.com/Abito21">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abito21&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="left">
+   <a href="https://github.com/Abito21">
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abito21&layout=compact&langs_count=8&theme=algolia"/>
+   </a>
+   
+   <a href="https://app.daily.dev/Abito21">
+      <img
+           width="256"
+           align="right"
+           alt="Abid Indraswara's Dev Card"
+           src="https://api.daily.dev/devcards/b8f70e107c204a49a2658a2e456cee86.png?r=g20"
+      />
+   </a>
+</div>
