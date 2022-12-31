@@ -1,7 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ### Abid Juliant Indraswara, you can call me Abid.
 
-🌱 I’m currently learning about Machine Learning, Web App and Android App.
+🌱 I’m currently learning about Data Scientist, Machine Learning, Data Analyst, Software Quality Assurance, Web App and Android App.
+🔭 I’m currently working as Software Quality Assurance Business Intelligence.
 
 I am very interested in learning about machine learning, data science, data analysts and all things related to technology that have an impact on the environment.
 
