@@ -5,7 +5,7 @@
 
 🔭 I’m currently working as Software Quality Assurance Business Intelligence.
 
-I am very interested in learning about machine learning, data science, data analysts and all things related to technology that have an impact on the environment.
+I am very interested in learning about machine learning, data science, data analysts, apps, technology and all things related to technology that have an impact on the environment.
 
 📫 How to reach me: 
 <div align="left">
