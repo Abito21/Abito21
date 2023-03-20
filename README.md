@@ -3,7 +3,9 @@
 
 🌱 I’m currently learning about Data Scientist, Machine Learning, Data Analytics, SQA, Web App and Android App.
 
-🔭 I’m currently working as Software Quality Assurance Business Intelligence.
+💼 I’m currently working as Software Quality Assurance Business Intelligence.
+
+🔭 | Lead of GDSC Universitas Tidar 2021 | Bangkit 2021 Graduated Machine Learning Path |
 
 I am very interested in learning about machine learning, data science, data analysts, apps, technology and all things related to technology that have an impact on the environment.
 
