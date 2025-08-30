@@ -15,8 +15,6 @@
   </a>
  </div>
 
-You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/).
-
 <div>
    <a href="https://github.com/Abito21">
       <img
