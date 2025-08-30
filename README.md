@@ -1,11 +1,11 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ### Abid Juliant Indraswara, you can call me Abid.
 
-🌱 I’m currently learning about Data Scientist, Machine Learning, Data Analytics, SQA, Web App and Android App.
+🌱 I’m currently learning about AI, Data Scientist, Machine Learning, Data Analytics, SQA, Web App and Android App.
 
-💼 I’m currently working as Software Quality Assurance Business Intelligence.
+💼 I’m currently working as Product Quality Assurance Business Intelligence.
 
-🔭 | Lead of GDSC Universitas Tidar 2021 | Bangkit 2021 Machine Learning Path Graduated |
+🔭 | Ex-Lead of GDSC Universitas Tidar 2021 | Ex-Bangkit 2021 Machine Learning Path Graduated |
 
 I am very interested in learning about machine learning, data science, data analysts, apps, technology and all things related to technology that have an impact on the environment.
 
