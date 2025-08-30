@@ -25,15 +25,6 @@ You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-julian
            height="150em"
            src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
    </a>
-   
-   <a href="https://app.daily.dev/Abito21">
-      <img
-           width="256"
-           align="right"
-           alt="Abid Indraswara's Dev Card"
-           src="https://api.daily.dev/devcards/b8f70e107c204a49a2658a2e456cee86.png?r=g20"
-      />
-   </a>
       
    <a href="https://github.com/Abito21">
       <img
