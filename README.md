@@ -5,9 +5,7 @@
 
 💼 I’m currently working as Product Quality Assurance Business Intelligence.
 
-🔭 | Ex-Lead of GDSC Universitas Tidar 2021 | Ex-Bangkit 2021 Machine Learning Path Graduated |
-
-I am very interested in learning about machine learning, data science, data analysts, apps, technology and all things related to technology that have an impact on the environment.
+I am very interested in learning about ai, machine learning, data science, data analysts, apps, technology and all things related to technology that have an impact on the environment.
 
 📫 How to reach me: 
 <div align="left">
