@@ -5,8 +5,6 @@
 
 💼 I’m currently working as Product Quality Assurance Business Intelligence.
 
-I am very interested in learning about ai, machine learning, data science, data analysts, apps, technology and all things related to technology that have an impact on the environment.
-
 📫 How to reach me: 
 <div align="left">
   <a href="https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/">
