@@ -9,12 +9,12 @@ I am very interested in learning about ai, machine learning, data science, data 
 
 📫 How to reach me: 
 <div align="left">
-  <a href="https://www.instagram.com/abidindraswara/">
+<!--   <a href="https://www.instagram.com/abidindraswara/">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"
       alt="Instagram"
     />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/abid-juliant-indraswara-a8b7741b3/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
