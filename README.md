@@ -22,7 +22,7 @@ You can connect me in [Linkedin account](https://www.linkedin.com/in/abid-julian
 <div>
    <a href="https://github.com/Abito21">
       <img
-           height="150em"
+           height="175em"
            src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abito21&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
    </a>
       
