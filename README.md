@@ -55,10 +55,10 @@ Learn and familiar with the following technologies
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abito21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
+<!-- ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abito21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Abito21&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 
@@ -69,5 +69,3 @@ Learn and familiar with the following technologies
 </picture>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Abito21&icon=0&color=0)](https://visitcount.itsvg.in)
