@@ -50,10 +50,10 @@ Learn and familiar with the following technologies
 ![](https://nirzak-streak-stats.vercel.app/?user=Abito21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abito21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
+<!-- ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abito21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Abito21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- ---
 
