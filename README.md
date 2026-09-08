@@ -46,15 +46,15 @@ Learn and familiar with the following technologies
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abito21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abito21&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abito21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=Jupyter%20Notebook)
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abito21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abito21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
