@@ -50,6 +50,8 @@ Learn and familiar with the following technologies
 
 ![Top Languages](./profile/top-langs.svg)
 
+![GitHub Streak](./profile/streak.svg)
+
 ---
 
 ### 🏆 GitHub Trophies
