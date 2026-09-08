@@ -44,8 +44,6 @@ Learn and familiar with the following technologies
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 -->
 
----
-
 ### 📊 My Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Abito21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
