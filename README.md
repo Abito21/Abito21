@@ -13,6 +13,7 @@
 
 ---
 
+<!--
 ### 🚀 Skills
 
 Learn and familiar with the following technologies
@@ -41,6 +42,7 @@ Learn and familiar with the following technologies
 ##### Design
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+-->
 
 ---
 
@@ -49,6 +51,16 @@ Learn and familiar with the following technologies
 ![](https://github-readme-stats.vercel.app/api?username=Abito21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abito21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abito21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=Jupyter%20Notebook)
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abito21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abito21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- ---
 
