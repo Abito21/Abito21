@@ -45,15 +45,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate GitHub Trophies
-        uses: emibcn/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          token: ${{ github.token }}
           theme: tokyo-night
-          no-frame: true
-          no-bg: true
-          margin-w: 4
-          output: svg
-          path: profile/trophy.svg
 
       - name: Commit generated SVG
         run: |
