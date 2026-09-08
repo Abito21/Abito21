@@ -50,3 +50,11 @@ jobs:
             git commit -m "Update GitHub profile stats"
             git push
           fi
+          
+      - name: Generate GitHub Streak
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
