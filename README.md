@@ -58,11 +58,6 @@ Learn and familiar with the following technologies
 
 ![GitHub Trophies](./profile/trophy.svg)
 
----
-
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Abito21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- ---
 
