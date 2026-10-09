@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="142.72"
+          width="142.77"
           height="8"
           fill="#3572A5"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="142.72"
+          x="142.77"
           y="0"
-          width="37.34"
+          width="37.33"
           height="8"
           fill="#5a6986"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="180.06"
+          x="180.10000000000002"
           y="0"
           width="19.1"
           height="8"
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="199.16"
+          x="199.20000000000002"
           y="0"
-          width="18.66"
+          width="18.65"
           height="8"
           fill="#A97BFF"
         />
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="217.82"
+          x="217.85000000000002"
           y="0"
-          width="17.85"
+          width="17.84"
           height="8"
           fill="#555555"
         />
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.67"
+          x="235.69000000000003"
           y="0"
-          width="14.33"
+          width="14.32"
           height="8"
           fill="#e34c26"
         />
@@ -199,14 +199,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 57.09%
+        Python 57.11%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#5a6986" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PureBasic 14.94%
+        PureBasic 14.93%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
